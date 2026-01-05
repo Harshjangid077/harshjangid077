@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [ShopRex](Shoppingrex.fte)
 
-- 🌱 I’m currently learning **React.js , next.js & GoLang.**
+- 🌱 Currently learning **React.js , next.js & GoLang.**
 
 - 👨‍💻 All of my projects are available at [harsuu.fte](harsuu.fte)
 
-- 💬 Ask me about **Just a kid 😔**
+- 💬**Just a grown ass kid 😔**
 
 - 📫 How to reach me **Harshjangid033@gmail.com**
 
