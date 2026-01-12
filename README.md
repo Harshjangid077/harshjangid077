@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning **React.js , next.js & GoLang.**
 
-- 👨‍💻 All of my projects are available at [harsuu.fte](harsuu.fte)
+- 👨‍💻 All of my projects are available at [harsuu.fte]
 
 - 💬**Just a grown ass kid 😔**
 
