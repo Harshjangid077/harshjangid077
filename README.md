@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/strangerdev255" target="blank"><img src="https://img.shields.io/twitter/follow/strangerdev255?logo=twitter&style=for-the-badge" alt="strangerdev255" /></a> </p>
 
-- 🔭 I’m currently working on [ShopRex](Shoppingrex.fte)
+- 🔭 I’m currently working on [ShopRex]
 
 - 🌱 Currently learning **React.js , next.js & GoLang.**
 
